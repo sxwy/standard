@@ -1,0 +1,1 @@
+# @sxwy/prettier-config

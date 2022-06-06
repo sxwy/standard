@@ -1,0 +1,7 @@
+module.exports = {
+  semi: false,
+  singleQuote: true,
+  vueIndentScriptAndStyle: true,
+  trailingComma: 'none',
+  htmlWhitespaceSensitivity: 'strict'
+}

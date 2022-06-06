@@ -1,0 +1,1 @@
+# @sxwy/stylelint-config

@@ -1,0 +1,20 @@
+{
+  "name": "@sxwy/prettier-config",
+  "version": "1.0.0",
+  "description": "prettier-config",
+  "main": "index.js",
+  "files": [
+    "rules",
+    "index.js"
+  ],
+  "keywords": [
+    "prettier"
+  ],
+  "author": "chenjie",
+  "license": "MIT",
+  "devDependencies": {
+    "@cj1997/eslint-config-base": "^1.0.0",
+    "eslint": "^8.0.0",
+    "prettier": "^2.0.0"
+  }
+}

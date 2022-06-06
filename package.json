@@ -1,0 +1,31 @@
+{
+  "name": "@sxwy/standard",
+  "version": "1.0.0",
+  "description": "standard",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "release": "multi-semantic-release --deps.bump=satisfy --deps.release=patch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sxwy/standard.git"
+  },
+  "keywords": [
+    "standard"
+  ],
+  "author": "chenjie",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sxwy/standard/issues"
+  },
+  "homepage": "https://github.com/sxwy/standard#readme",
+  "devDependencies": {
+    "@semantic-release/changelog": "^5.0.1",
+    "@semantic-release/git": "^9.0.0",
+    "multi-semantic-release": "^2.11.3",
+    "semantic-release": "^17.3.1"
+  }
+}
