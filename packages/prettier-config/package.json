@@ -13,8 +13,10 @@
   "author": "chenjie",
   "license": "MIT",
   "devDependencies": {
-    "@cj1997/eslint-config-base": "^1.0.0",
+    "@sxwy/eslint-config-base": "^1.0.0",
+    "@sxwy/stylelint-config": "^1.0.0",
     "eslint": "^8.0.0",
-    "prettier": "^2.0.0"
+    "prettier": "^2.0.0",
+    "stylelint": "^14.0.0"
   }
 }

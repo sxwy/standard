@@ -1,3 +1,3 @@
 module.exports = {
-  extends: ['@cj1997/eslint-config-base']
+  extends: ['@sxwy/eslint-config-base']
 }
