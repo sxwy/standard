@@ -25,6 +25,7 @@
   },
   "homepage": "https://github.com/sxwy/standard#readme",
   "devDependencies": {
+    "@sxwy/commitlint-config": "^1.0.0",
     "@semantic-release/changelog": "^5.0.1",
     "@semantic-release/git": "^9.0.0",
     "husky": "^8.0.1",
