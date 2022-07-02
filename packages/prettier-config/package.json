@@ -1,6 +1,6 @@
 {
   "name": "@sxwy/prettier-config",
-  "version": "1.2.1-beta.1",
+  "version": "1.2.1",
   "description": "prettier-config",
   "main": "index.js",
   "files": [
@@ -13,8 +13,8 @@
   "author": "chenjie",
   "license": "MIT",
   "devDependencies": {
-    "@sxwy/eslint-config-base": "1.3.0-beta.1",
-    "@sxwy/stylelint-config": "1.2.1-beta.1",
+    "@sxwy/eslint-config-base": "1.3.0",
+    "@sxwy/stylelint-config": "1.2.1",
     "eslint": "^8.0.0",
     "prettier": "^2.0.0",
     "stylelint": "^14.0.0"
