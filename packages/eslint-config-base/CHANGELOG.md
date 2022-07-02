@@ -1,3 +1,19 @@
+# @sxwy/eslint-config-base [1.3.0](https://github.com/sxwy/standard/compare/@sxwy/eslint-config-base@1.2.0...@sxwy/eslint-config-base@1.3.0) (2022-07-02)
+
+
+### Features
+
+* base eslint update ([467760f](https://github.com/sxwy/standard/commit/467760fb1e90cc6a2b8848207b366f6515bd3012))
+
+
+
+
+
+### Dependencies
+
+* **@sxwy/prettier-config:** upgraded to 1.2.1
+* **@sxwy/stylelint-config:** upgraded to 1.2.1
+
 # @sxwy/eslint-config-base [1.3.0-beta.1](https://github.com/sxwy/standard/compare/@sxwy/eslint-config-base@1.2.0...@sxwy/eslint-config-base@1.3.0-beta.1) (2022-06-09)
 
 
