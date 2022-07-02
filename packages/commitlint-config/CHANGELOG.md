@@ -1,3 +1,20 @@
+# @sxwy/commitlint-config [1.2.0](https://github.com/sxwy/standard/compare/@sxwy/commitlint-config@1.1.0...@sxwy/commitlint-config@1.2.0) (2022-07-02)
+
+
+### Features
+
+* update version ([7a2b807](https://github.com/sxwy/standard/commit/7a2b80790c5429888dff064f1feafb748a308f31))
+
+
+
+
+
+### Dependencies
+
+* **@sxwy/eslint-config-base:** upgraded to 1.5.0
+* **@sxwy/prettier-config:** upgraded to 1.4.0
+* **@sxwy/stylelint-config:** upgraded to 1.4.0
+
 # @sxwy/commitlint-config [1.2.0-beta.1](https://github.com/sxwy/standard/compare/@sxwy/commitlint-config@1.1.0...@sxwy/commitlint-config@1.2.0-beta.1) (2022-07-02)
 
 
