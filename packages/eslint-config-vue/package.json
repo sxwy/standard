@@ -2,7 +2,7 @@
   "name": "@sxwy/eslint-config-vue",
   "version": "1.2.1-beta.1",
   "description": "eslint-config-vue",
-  "main": "vue3.js",
+  "main": "vue2.js",
   "files": [
     "rules",
     "vue2.js",
