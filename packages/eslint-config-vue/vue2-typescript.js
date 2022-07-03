@@ -1,5 +1,5 @@
 module.exports = {
-  extends: ['./rules/vue2', '@sxwy/eslint-config-base/typescript'].map(
+  extends: ['@sxwy/eslint-config-base/typescript', './rules/vue2'].map(
     require.resolve
   )
 }

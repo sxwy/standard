@@ -1,3 +1,3 @@
 module.exports = {
-  extends: ['./rules/vue2', '@sxwy/eslint-config-base'].map(require.resolve)
+  extends: ['@sxwy/eslint-config-base', './rules/vue2'].map(require.resolve)
 }

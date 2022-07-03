@@ -1,5 +1,5 @@
 module.exports = {
-  extends: ['./rules/babel', './rules/standard', './rules/prettier'].map(
+  extends: ['./rules/standard', './rules/babel', './rules/prettier'].map(
     require.resolve
   )
 }
