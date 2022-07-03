@@ -1,3 +1,36 @@
+## @sxwy/stylelint-config [1.4.1-beta.3](https://github.com/sxwy/standard/compare/@sxwy/stylelint-config@1.4.1-beta.2...@sxwy/stylelint-config@1.4.1-beta.3) (2022-07-03)
+
+
+
+
+
+### Dependencies
+
+* **@sxwy/eslint-config-base:** upgraded to 1.6.0-beta.3
+* **@sxwy/prettier-config:** upgraded to 1.4.1-beta.3
+
+## @sxwy/stylelint-config [1.4.1-beta.2](https://github.com/sxwy/standard/compare/@sxwy/stylelint-config@1.4.1-beta.1...@sxwy/stylelint-config@1.4.1-beta.2) (2022-07-03)
+
+
+
+
+
+### Dependencies
+
+* **@sxwy/eslint-config-base:** upgraded to 1.6.0-beta.2
+* **@sxwy/prettier-config:** upgraded to 1.4.1-beta.2
+
+## @sxwy/stylelint-config [1.4.1-beta.1](https://github.com/sxwy/standard/compare/@sxwy/stylelint-config@1.4.0...@sxwy/stylelint-config@1.4.1-beta.1) (2022-07-03)
+
+
+
+
+
+### Dependencies
+
+* **@sxwy/eslint-config-base:** upgraded to 1.6.0-beta.1
+* **@sxwy/prettier-config:** upgraded to 1.4.1-beta.1
+
 # @sxwy/stylelint-config [1.4.0](https://github.com/sxwy/standard/compare/@sxwy/stylelint-config@1.3.0...@sxwy/stylelint-config@1.4.0) (2022-07-02)
 
 
