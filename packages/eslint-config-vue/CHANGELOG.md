@@ -1,3 +1,20 @@
+# @sxwy/eslint-config-vue [1.5.0-beta.4](https://github.com/sxwy/standard/compare/@sxwy/eslint-config-vue@1.5.0-beta.3...@sxwy/eslint-config-vue@1.5.0-beta.4) (2022-07-03)
+
+
+### Bug Fixes
+
+* eslint-typescript bug ifx ([8229c6c](https://github.com/sxwy/standard/commit/8229c6c38277356d1717dcc81e02718e454b3a3f))
+
+
+
+
+
+### Dependencies
+
+* **@sxwy/eslint-config-base:** upgraded to 1.6.0-beta.3
+* **@sxwy/prettier-config:** upgraded to 1.4.1-beta.3
+* **@sxwy/stylelint-config:** upgraded to 1.4.1-beta.3
+
 # @sxwy/eslint-config-vue [1.5.0-beta.3](https://github.com/sxwy/standard/compare/@sxwy/eslint-config-vue@1.5.0-beta.2...@sxwy/eslint-config-vue@1.5.0-beta.3) (2022-07-03)
 
 
