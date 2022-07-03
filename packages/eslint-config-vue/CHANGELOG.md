@@ -1,3 +1,20 @@
+# @sxwy/eslint-config-vue [1.5.0-beta.1](https://github.com/sxwy/standard/compare/@sxwy/eslint-config-vue@1.4.0...@sxwy/eslint-config-vue@1.5.0-beta.1) (2022-07-03)
+
+
+### Features
+
+* eslint upgrade ([f6744bf](https://github.com/sxwy/standard/commit/f6744bf6cfbaff6eee30d191041262fd036411e4))
+
+
+
+
+
+### Dependencies
+
+* **@sxwy/eslint-config-base:** upgraded to 1.6.0-beta.1
+* **@sxwy/prettier-config:** upgraded to 1.4.1-beta.1
+* **@sxwy/stylelint-config:** upgraded to 1.4.1-beta.1
+
 # @sxwy/eslint-config-vue [1.4.0](https://github.com/sxwy/standard/compare/@sxwy/eslint-config-vue@1.3.0...@sxwy/eslint-config-vue@1.4.0) (2022-07-02)
 
 
