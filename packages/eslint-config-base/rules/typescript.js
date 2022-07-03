@@ -1,7 +1,7 @@
 module.exports = {
   extends: ['plugin:@typescript-eslint/recommended'],
-  parser: '@typescript-eslint/parser',
   parserOptions: {
+    parser: '@typescript-eslint/parser',
     ecmaFeatures: {
       jsx: true
     }
