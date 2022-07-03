@@ -1,3 +1,10 @@
+# @sxwy/eslint-config-vue [1.5.0-beta.3](https://github.com/sxwy/standard/compare/@sxwy/eslint-config-vue@1.5.0-beta.2...@sxwy/eslint-config-vue@1.5.0-beta.3) (2022-07-03)
+
+
+### Bug Fixes
+
+* eslint-vue url error fix ([5f6ea71](https://github.com/sxwy/standard/commit/5f6ea714747da2cd62e2ffb3a61a0e2385991525))
+
 # @sxwy/eslint-config-vue [1.5.0-beta.2](https://github.com/sxwy/standard/compare/@sxwy/eslint-config-vue@1.5.0-beta.1...@sxwy/eslint-config-vue@1.5.0-beta.2) (2022-07-03)
 
 
