@@ -1,3 +1,10 @@
+# @sxwy/commitlint-config [1.3.0-beta.1](https://github.com/sxwy/standard/compare/@sxwy/commitlint-config@1.2.1-beta.3...@sxwy/commitlint-config@1.3.0-beta.1) (2022-07-27)
+
+
+### Features
+
+* commitlint add rules ([6fc956a](https://github.com/sxwy/standard/commit/6fc956a5e9e9d4bcb8266f3fd5978bf237e0e8db))
+
 ## @sxwy/commitlint-config [1.2.1-beta.3](https://github.com/sxwy/standard/compare/@sxwy/commitlint-config@1.2.1-beta.2...@sxwy/commitlint-config@1.2.1-beta.3) (2022-07-03)
 
 
