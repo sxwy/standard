@@ -1,3 +1,19 @@
+# @sxwy/stylelint-config [1.5.0](https://github.com/sxwy/standard/compare/@sxwy/stylelint-config@1.4.1...@sxwy/stylelint-config@1.5.0) (2022-08-16)
+
+
+### Features
+
+* stylelint add rules ([7e32cd7](https://github.com/sxwy/standard/commit/7e32cd7db3946cc0b2254ea2538b25f298eb27bb))
+
+
+
+
+
+### Dependencies
+
+* **@sxwy/eslint-config-base:** upgraded to 1.6.1
+* **@sxwy/prettier-config:** upgraded to 1.4.2
+
 # @sxwy/stylelint-config [1.5.0-beta.1](https://github.com/sxwy/standard/compare/@sxwy/stylelint-config@1.4.1...@sxwy/stylelint-config@1.5.0-beta.1) (2022-08-16)
 
 
