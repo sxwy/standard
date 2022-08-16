@@ -1,3 +1,14 @@
+## @sxwy/eslint-config-base [1.6.1-beta.1](https://github.com/sxwy/standard/compare/@sxwy/eslint-config-base@1.6.0...@sxwy/eslint-config-base@1.6.1-beta.1) (2022-08-16)
+
+
+
+
+
+### Dependencies
+
+* **@sxwy/prettier-config:** upgraded to 1.4.2-beta.1
+* **@sxwy/stylelint-config:** upgraded to 1.5.0-beta.1
+
 # @sxwy/eslint-config-base [1.6.0](https://github.com/sxwy/standard/compare/@sxwy/eslint-config-base@1.5.0...@sxwy/eslint-config-base@1.6.0) (2022-07-03)
 
 
