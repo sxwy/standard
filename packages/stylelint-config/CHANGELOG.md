@@ -1,3 +1,12 @@
+# @sxwy/stylelint-config [1.7.0](https://github.com/sxwy/standard/compare/@sxwy/stylelint-config@1.6.0...@sxwy/stylelint-config@1.7.0) (2022-10-08)
+
+
+### Features
+
+* 使用 postcss@7 版本 ([df4a55f](https://github.com/sxwy/standard/commit/df4a55fc26fa5055628a414914ea28872cd13cd6))
+* 使用 postcss@8 ([5e4152f](https://github.com/sxwy/standard/commit/5e4152ff70ccc8396b229f4e395799c31798bba0))
+* 删除 postcss 依赖 ([b839a5a](https://github.com/sxwy/standard/commit/b839a5a6b3c806a49a9f1f06851d8be56c39e31a))
+
 # @sxwy/stylelint-config [1.6.0](https://github.com/sxwy/standard/compare/@sxwy/stylelint-config@1.5.0...@sxwy/stylelint-config@1.6.0) (2022-09-22)
 
 
