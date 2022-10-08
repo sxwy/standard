@@ -1,3 +1,19 @@
+# @sxwy/stylelint-config [1.7.0-beta.3](https://github.com/sxwy/standard/compare/@sxwy/stylelint-config@1.7.0-beta.2...@sxwy/stylelint-config@1.7.0-beta.3) (2022-10-08)
+
+
+### Features
+
+* 使用 postcss@8 ([5e4152f](https://github.com/sxwy/standard/commit/5e4152ff70ccc8396b229f4e395799c31798bba0))
+
+
+
+
+
+### Dependencies
+
+* **@sxwy/eslint-config-base:** upgraded to 1.7.1-beta.3
+* **@sxwy/prettier-config:** upgraded to 1.5.1-beta.3
+
 # @sxwy/stylelint-config [1.7.0-beta.2](https://github.com/sxwy/standard/compare/@sxwy/stylelint-config@1.7.0-beta.1...@sxwy/stylelint-config@1.7.0-beta.2) (2022-10-08)
 
 
