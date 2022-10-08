@@ -1,20 +1,10 @@
-# @sxwy/eslint-config-vue [1.6.0-beta.1](https://github.com/sxwy/standard/compare/@sxwy/eslint-config-vue@1.5.1...@sxwy/eslint-config-vue@1.6.0-beta.1) (2022-09-22)
+# @sxwy/eslint-config-vue [1.6.0](https://github.com/sxwy/standard/compare/@sxwy/eslint-config-vue@1.5.1...@sxwy/eslint-config-vue@1.6.0) (2022-09-22)
 
 
 ### Features
 
 * 依赖升级 ([5fa5c32](https://github.com/sxwy/standard/commit/5fa5c325a11520856b9af9b3b716b7458cf9bd8b))
 * 依赖升级 ([df32614](https://github.com/sxwy/standard/commit/df3261447fbb1ae1348e51da36182293a56bfc96))
-
-
-
-
-
-### Dependencies
-
-* **@sxwy/eslint-config-base:** upgraded to 1.7.0-beta.1
-* **@sxwy/prettier-config:** upgraded to 1.5.0-beta.1
-* **@sxwy/stylelint-config:** upgraded to 1.6.0-beta.1
 
 ## @sxwy/eslint-config-vue [1.5.1](https://github.com/sxwy/standard/compare/@sxwy/eslint-config-vue@1.5.0...@sxwy/eslint-config-vue@1.5.1) (2022-08-16)
 
