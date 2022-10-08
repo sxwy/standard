@@ -1,3 +1,19 @@
+# @sxwy/stylelint-config [1.7.0-beta.1](https://github.com/sxwy/standard/compare/@sxwy/stylelint-config@1.6.0...@sxwy/stylelint-config@1.7.0-beta.1) (2022-10-08)
+
+
+### Features
+
+* 删除 postcss 依赖 ([b839a5a](https://github.com/sxwy/standard/commit/b839a5a6b3c806a49a9f1f06851d8be56c39e31a))
+
+
+
+
+
+### Dependencies
+
+* **@sxwy/eslint-config-base:** upgraded to 1.7.1-beta.1
+* **@sxwy/prettier-config:** upgraded to 1.5.1-beta.1
+
 # @sxwy/stylelint-config [1.6.0](https://github.com/sxwy/standard/compare/@sxwy/stylelint-config@1.5.0...@sxwy/stylelint-config@1.6.0) (2022-09-22)
 
 
