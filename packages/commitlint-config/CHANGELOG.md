@@ -1,3 +1,10 @@
+# @sxwy/commitlint-config [1.5.0](https://github.com/sxwy/standard/compare/@sxwy/commitlint-config@1.4.0...@sxwy/commitlint-config@1.5.0) (2023-08-20)
+
+
+### Features
+
+* 优化 commitlint 配置 ([b3d6569](https://github.com/sxwy/standard/commit/b3d65694340dd556040764b53204bad85da5a1a0))
+
 # @sxwy/commitlint-config [1.4.0](https://github.com/sxwy/standard/compare/@sxwy/commitlint-config@1.3.1...@sxwy/commitlint-config@1.4.0) (2022-09-22)
 
 
