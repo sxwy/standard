@@ -1,1 +1,1 @@
-# @sxwy/stylelint-config
+# CSS 编码规范配置
