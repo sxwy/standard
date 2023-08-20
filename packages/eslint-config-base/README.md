@@ -1,1 +1,1 @@
-# @sxwy/eslint-config-base
+# JS/TS 编码规范的基础配置
