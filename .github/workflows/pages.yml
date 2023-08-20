@@ -21,7 +21,7 @@ jobs:
       - name: Build
         run: |
           yarn
-          yarn run doc:build
+          yarn run build:docs
 
       - name: Deploy
         uses: JamesIves/github-pages-deploy-action@v4.3.3
