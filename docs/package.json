@@ -1,0 +1,23 @@
+{
+  "private": true,
+  "name": "@sxwy/standard-docs",
+  "version": "1.0.0",
+  "keywords": [
+    "standard",
+    "sxwy",
+    "docs"
+  ],
+  "author": "chenjie",
+  "license": "MIT",
+  "scripts": {
+    "dev": "npx vuepress dev .",
+    "build": "npx vuepress build ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sxwy/standard.git"
+  },
+  "devDependencies": {
+    "vuepress": "^1.9.8"
+  }
+}

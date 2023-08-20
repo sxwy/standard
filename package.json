@@ -1,12 +1,16 @@
 {
+  "private": true,
   "name": "@sxwy/standard",
   "version": "1.0.0",
   "description": "standard",
-  "private": true,
   "workspaces": [
+    "docs",
+    "!docs",
     "packages/*"
   ],
   "scripts": {
+    "dev:docs": "yarn workspace @sxwy/standard-docs dev",
+    "build:docs": "yarn workspace @sxwy/standard-docs build",
     "prepare": "husky install",
     "pre-commit": "lint-staged",
     "release": "multi-semantic-release --deps.bump=satisfy --deps.release=patch"
