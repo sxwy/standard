@@ -1,1 +1,1 @@
-# @sxwy/commitlint-config
+# Git 提交规范配置
