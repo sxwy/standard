@@ -18,11 +18,10 @@ jobs:
         with:
           node-version: 16
 
-      - name: Install
-        run: yarn
-
       - name: Publish
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
-        run: yarn release
+        run: |
+          yarn
+          yarn release
