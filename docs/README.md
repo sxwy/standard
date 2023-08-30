@@ -17,5 +17,5 @@ features:
     details: 基于 git hook 和程序脚本自动化完成规范校验
   - title: 文档示例
     details: 提供了丰富的教程和示例供开发者学习使用
-footer: MIT Licensed | Copyright © 2023-present
+footer: MIT Licensed | Copyright © 2023-present chenjie
 ---
