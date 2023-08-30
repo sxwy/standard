@@ -4,10 +4,16 @@ module.exports = {
   description: '前端项目及编码规范',
   displayAllHeaders: true,
   themeConfig: {
+    logo: '/images/logo.png',
     sidebarDepth: 0,
     nav: [
       { text: '规范', link: '/rules/base/why' },
-      { text: '教程', link: '/guide/project/combat' }
+      { text: '教程', link: '/guide/project/combat' },
+      {
+        text: '源代码',
+        link: 'https://github.com/sxwy/standard',
+        target: '_blank'
+      }
     ],
     sidebar: {
       '/rules/': [
