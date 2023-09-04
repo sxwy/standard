@@ -56,6 +56,10 @@ module.exports = {
             {
               title: '归档管理',
               path: 'project/archive'
+            },
+            {
+              title: '项目模板',
+              path: 'project/template'
             }
           ]
         }
