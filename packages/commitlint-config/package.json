@@ -21,7 +21,6 @@
     "@sxwy/prettier-config": "1.5.1-beta.3",
     "@sxwy/stylelint-config": "1.7.0",
     "eslint": "^8.23.1",
-    "prettier": "^2.7.1",
-    "stylelint": "^14.12.1"
+    "prettier": "^2.7.1"
   }
 }
