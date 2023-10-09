@@ -1,3 +1,10 @@
+# @sxwy/eslint-config-base [1.8.0](https://github.com/sxwy/standard/compare/@sxwy/eslint-config-base@1.7.0...@sxwy/eslint-config-base@1.8.0) (2023-10-09)
+
+
+### Features
+
+* 项目依赖调整 ([c3e0f64](https://github.com/sxwy/standard/commit/c3e0f64626f123565bff731a9732dbd2217cdfcd))
+
 # @sxwy/eslint-config-base [1.7.0](https://github.com/sxwy/standard/compare/@sxwy/eslint-config-base@1.6.1...@sxwy/eslint-config-base@1.7.0) (2022-09-22)
 
 
