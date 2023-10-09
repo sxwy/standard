@@ -1,3 +1,10 @@
+# @sxwy/prettier-config [1.6.0](https://github.com/sxwy/standard/compare/@sxwy/prettier-config@1.5.0...@sxwy/prettier-config@1.6.0) (2023-10-09)
+
+
+### Features
+
+* 项目依赖调整 ([c3e0f64](https://github.com/sxwy/standard/commit/c3e0f64626f123565bff731a9732dbd2217cdfcd))
+
 # @sxwy/prettier-config [1.5.0](https://github.com/sxwy/standard/compare/@sxwy/prettier-config@1.4.2...@sxwy/prettier-config@1.5.0) (2022-09-22)
 
 
