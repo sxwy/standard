@@ -1,4 +1,6 @@
 module.exports = {
-  '*.{vue,js,jsx,ts,tsx}': 'eslint --fix',
-  '*.{vue,css,less,sass,scss}': 'stylelint --fix'
-}
+  "*": "prettier --write --cache --ignore-unknown",
+  "packages/**/*.{vue,js,jsx,ts,tsx}": "eslint --fix",
+  "packages/**/*.{vue,css,less,sass,scss}":
+    "stylelint --fix --allow-empty-input",
+};
