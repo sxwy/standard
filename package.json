@@ -29,12 +29,17 @@
   },
   "homepage": "https://github.com/sxwy/standard#readme",
   "devDependencies": {
-    "@sxwy/commitlint-config": "^1.3.1",
-    "@semantic-release/changelog": "^6.0.1",
+    "@sxwy/commitlint-config": "^1.6.0",
+    "@sxwy/eslint-config-vue": "^1.7.0",
+    "@sxwy/prettier-config": "^1.6.0",
+    "@sxwy/stylelint-config": "^1.8.0",
     "@semantic-release/git": "^10.0.1",
+    "eslint": "^8.41.0",
     "husky": "^8.0.1",
     "lint-staged": "^13.0.3",
     "multi-semantic-release": "^2.13.0",
-    "semantic-release": "^19.0.5"
+    "prettier": "^2.8.8",
+    "semantic-release": "^19.0.5",
+    "stylelint": "^15.6.2"
   }
 }

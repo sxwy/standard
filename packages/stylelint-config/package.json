@@ -22,11 +22,5 @@
     "stylelint-config-standard": "^28.0.0",
     "stylelint-order": "^5.0.0",
     "stylelint-prettier": "^2.0.0"
-  },
-  "devDependencies": {
-    "@sxwy/eslint-config-base": "^1.6.1",
-    "@sxwy/prettier-config": "^1.4.2",
-    "eslint": "^8.23.1",
-    "prettier": "^2.7.1"
   }
 }

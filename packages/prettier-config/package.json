@@ -11,10 +11,5 @@
     "prettier"
   ],
   "author": "chenjie",
-  "license": "MIT",
-  "devDependencies": {
-    "@sxwy/eslint-config-base": "^1.6.1",
-    "eslint": "^8.23.1",
-    "prettier": "^2.7.1"
-  }
+  "license": "MIT"
 }
