@@ -10,8 +10,8 @@
   "author": "chenjie",
   "license": "MIT",
   "scripts": {
-    "dev": "npx vuepress dev .",
-    "build": "npx vuepress build ."
+    "dev": "vuepress dev .",
+    "build": "vuepress build ."
   },
   "repository": {
     "type": "git",

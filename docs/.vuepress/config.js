@@ -1,6 +1,6 @@
 module.exports = {
   base: '/standard/',
-  title: 'standard',
+  title: '前端规范',
   description: '前端项目及编码规范',
   displayAllHeaders: true,
   themeConfig: {
