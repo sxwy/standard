@@ -8,13 +8,8 @@
     "!docs",
     "packages/*"
   ],
-  "scripts": {
-    "dev:docs": "yarn workspace @sxwy/standard-docs dev",
-    "build:docs": "yarn workspace @sxwy/standard-docs build",
-    "prepare": "husky install",
-    "pre-commit": "lint-staged -p false",
-    "preinstall": "npx only-allow yarn",
-    "release": "multi-semantic-release --deps.bump=satisfy --deps.release=patch"
+  "engines": {
+    "node": "20.12.0"
   },
   "repository": {
     "type": "git",
@@ -29,6 +24,14 @@
     "url": "https://github.com/sxwy/standard/issues"
   },
   "homepage": "https://github.com/sxwy/standard#readme",
+  "scripts": {
+    "dev:docs": "yarn workspace @sxwy/standard-docs dev",
+    "build:docs": "yarn workspace @sxwy/standard-docs build",
+    "prepare": "husky install",
+    "pre-commit": "lint-staged -p false",
+    "preinstall": "npx only-allow yarn",
+    "release": "multi-semantic-release --deps.bump=satisfy --deps.release=patch"
+  },
   "devDependencies": {
     "@sxwy/commitlint-config": "^1.6.0",
     "@sxwy/eslint-config-base": "^1.8.0",
