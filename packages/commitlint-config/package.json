@@ -1,6 +1,6 @@
 {
   "name": "@sxwy/commitlint-config",
-  "version": "1.6.0-beta.1",
+  "version": "1.6.0",
   "description": "commitlint-config",
   "main": "index.js",
   "files": [
@@ -15,12 +15,5 @@
   "dependencies": {
     "@commitlint/cli": "^17.1.2",
     "@commitlint/config-conventional": "^17.1.0"
-  },
-  "devDependencies": {
-    "@sxwy/eslint-config-base": "1.8.0-beta.1",
-    "@sxwy/prettier-config": "1.6.0-beta.1",
-    "@sxwy/stylelint-config": "1.8.0-beta.1",
-    "eslint": "^8.23.1",
-    "prettier": "^2.7.1"
   }
 }

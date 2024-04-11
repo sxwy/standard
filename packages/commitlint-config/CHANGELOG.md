@@ -1,65 +1,43 @@
-# @sxwy/commitlint-config [1.6.0-beta.1](https://github.com/sxwy/standard/compare/@sxwy/commitlint-config@1.5.0...@sxwy/commitlint-config@1.6.0-beta.1) (2023-10-09)
-
+# @sxwy/commitlint-config [1.6.0](https://github.com/sxwy/standard/compare/@sxwy/commitlint-config@1.5.0...@sxwy/commitlint-config@1.6.0) (2023-10-09)
 
 ### Features
 
-* 项目依赖调整 ([c3e0f64](https://github.com/sxwy/standard/commit/c3e0f64626f123565bff731a9732dbd2217cdfcd))
-
-
-
-
-
-### Dependencies
-
-* **@sxwy/eslint-config-base:** upgraded to 1.8.0-beta.1
-* **@sxwy/prettier-config:** upgraded to 1.6.0-beta.1
-* **@sxwy/stylelint-config:** upgraded to 1.8.0-beta.1
+- 项目依赖调整 ([c3e0f64](https://github.com/sxwy/standard/commit/c3e0f64626f123565bff731a9732dbd2217cdfcd))
 
 # @sxwy/commitlint-config [1.5.0](https://github.com/sxwy/standard/compare/@sxwy/commitlint-config@1.4.0...@sxwy/commitlint-config@1.5.0) (2023-08-20)
 
-
 ### Features
 
-* 优化 commitlint 配置 ([b3d6569](https://github.com/sxwy/standard/commit/b3d65694340dd556040764b53204bad85da5a1a0))
+- 优化 commitlint 配置 ([b3d6569](https://github.com/sxwy/standard/commit/b3d65694340dd556040764b53204bad85da5a1a0))
 
 # @sxwy/commitlint-config [1.4.0](https://github.com/sxwy/standard/compare/@sxwy/commitlint-config@1.3.1...@sxwy/commitlint-config@1.4.0) (2022-09-22)
 
-
 ### Features
 
-* 依赖升级 ([5fa5c32](https://github.com/sxwy/standard/commit/5fa5c325a11520856b9af9b3b716b7458cf9bd8b))
-* 依赖升级 ([df32614](https://github.com/sxwy/standard/commit/df3261447fbb1ae1348e51da36182293a56bfc96))
+- 依赖升级 ([5fa5c32](https://github.com/sxwy/standard/commit/5fa5c325a11520856b9af9b3b716b7458cf9bd8b))
+- 依赖升级 ([df32614](https://github.com/sxwy/standard/commit/df3261447fbb1ae1348e51da36182293a56bfc96))
 
 ## @sxwy/commitlint-config [1.3.1](https://github.com/sxwy/standard/compare/@sxwy/commitlint-config@1.3.0...@sxwy/commitlint-config@1.3.1) (2022-08-16)
 
-
-
-
-
 ### Dependencies
 
-* **@sxwy/eslint-config-base:** upgraded to 1.6.1
-* **@sxwy/prettier-config:** upgraded to 1.4.2
-* **@sxwy/stylelint-config:** upgraded to 1.5.0
+- **@sxwy/eslint-config-base:** upgraded to 1.6.1
+- **@sxwy/prettier-config:** upgraded to 1.4.2
+- **@sxwy/stylelint-config:** upgraded to 1.5.0
 
 ## @sxwy/commitlint-config [1.3.1-beta.1](https://github.com/sxwy/standard/compare/@sxwy/commitlint-config@1.3.0...@sxwy/commitlint-config@1.3.1-beta.1) (2022-08-16)
 
-
-
-
-
 ### Dependencies
 
-* **@sxwy/eslint-config-base:** upgraded to 1.6.1-beta.1
-* **@sxwy/prettier-config:** upgraded to 1.4.2-beta.1
-* **@sxwy/stylelint-config:** upgraded to 1.5.0-beta.1
+- **@sxwy/eslint-config-base:** upgraded to 1.6.1-beta.1
+- **@sxwy/prettier-config:** upgraded to 1.4.2-beta.1
+- **@sxwy/stylelint-config:** upgraded to 1.5.0-beta.1
 
 # @sxwy/commitlint-config [1.3.0](https://github.com/sxwy/standard/compare/@sxwy/commitlint-config@1.2.1...@sxwy/commitlint-config@1.3.0) (2022-07-27)
 
-
 ### Features
 
-* commitlint add rules ([6fc956a](https://github.com/sxwy/standard/commit/6fc956a5e9e9d4bcb8266f3fd5978bf237e0e8db))
+- commitlint add rules ([6fc956a](https://github.com/sxwy/standard/commit/6fc956a5e9e9d4bcb8266f3fd5978bf237e0e8db))
 
 ## @sxwy/commitlint-config [1.2.1](https://github.com/sxwy/standard/compare/@sxwy/commitlint-config@1.2.0...@sxwy/commitlint-config@1.2.1) (2022-07-03)
 

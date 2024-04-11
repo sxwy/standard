@@ -1,6 +1,6 @@
 {
   "name": "@sxwy/eslint-config-base",
-  "version": "1.8.0-beta.1",
+  "version": "1.8.0",
   "description": "eslint-config-base",
   "main": "index.js",
   "files": [
@@ -24,11 +24,5 @@
     "eslint-plugin-n": "^15.3.0",
     "eslint-plugin-prettier": "^4.2.1",
     "eslint-plugin-promise": "^6.0.1"
-  },
-  "devDependencies": {
-    "@sxwy/prettier-config": "1.6.0-beta.1",
-    "@sxwy/stylelint-config": "1.8.0-beta.1",
-    "eslint": "^8.23.1",
-    "prettier": "^2.7.1"
   }
 }

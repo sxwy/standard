@@ -1,51 +1,40 @@
-# @sxwy/prettier-config [1.6.0-beta.1](https://github.com/sxwy/standard/compare/@sxwy/prettier-config@1.5.1-beta.3...@sxwy/prettier-config@1.6.0-beta.1) (2023-10-09)
-
+# @sxwy/prettier-config [1.6.0](https://github.com/sxwy/standard/compare/@sxwy/prettier-config@1.5.0...@sxwy/prettier-config@1.6.0) (2023-10-09)
 
 ### Features
 
-* 项目依赖调整 ([c3e0f64](https://github.com/sxwy/standard/commit/c3e0f64626f123565bff731a9732dbd2217cdfcd))
+- 项目依赖调整 ([c3e0f64](https://github.com/sxwy/standard/commit/c3e0f64626f123565bff731a9732dbd2217cdfcd))
 
+# @sxwy/prettier-config [1.5.0](https://github.com/sxwy/standard/compare/@sxwy/prettier-config@1.4.2...@sxwy/prettier-config@1.5.0) (2022-09-22)
 
+### Features
 
-
+- 项目依赖调整 ([c3e0f64](https://github.com/sxwy/standard/commit/c3e0f64626f123565bff731a9732dbd2217cdfcd))
 
 ### Dependencies
 
-* **@sxwy/eslint-config-base:** upgraded to 1.8.0-beta.1
-* **@sxwy/stylelint-config:** upgraded to 1.8.0-beta.1
+- **@sxwy/eslint-config-base:** upgraded to 1.8.0-beta.1
+- **@sxwy/stylelint-config:** upgraded to 1.8.0-beta.1
 
 ## @sxwy/prettier-config [1.5.1-beta.3](https://github.com/sxwy/standard/compare/@sxwy/prettier-config@1.5.1-beta.2...@sxwy/prettier-config@1.5.1-beta.3) (2022-10-08)
 
-
-
-
-
 ### Dependencies
 
-* **@sxwy/eslint-config-base:** upgraded to 1.7.1-beta.3
-* **@sxwy/stylelint-config:** upgraded to 1.7.0-beta.3
+- **@sxwy/eslint-config-base:** upgraded to 1.7.1-beta.3
+- **@sxwy/stylelint-config:** upgraded to 1.7.0-beta.3
 
 ## @sxwy/prettier-config [1.5.1-beta.2](https://github.com/sxwy/standard/compare/@sxwy/prettier-config@1.5.1-beta.1...@sxwy/prettier-config@1.5.1-beta.2) (2022-10-08)
 
-
-
-
-
 ### Dependencies
 
-* **@sxwy/eslint-config-base:** upgraded to 1.7.1-beta.2
-* **@sxwy/stylelint-config:** upgraded to 1.7.0-beta.2
+- **@sxwy/eslint-config-base:** upgraded to 1.7.1-beta.2
+- **@sxwy/stylelint-config:** upgraded to 1.7.0-beta.2
 
 ## @sxwy/prettier-config [1.5.1-beta.1](https://github.com/sxwy/standard/compare/@sxwy/prettier-config@1.5.0...@sxwy/prettier-config@1.5.1-beta.1) (2022-10-08)
 
-
-
-
-
 ### Dependencies
 
-* **@sxwy/eslint-config-base:** upgraded to 1.7.1-beta.1
-* **@sxwy/stylelint-config:** upgraded to 1.7.0-beta.1
+- **@sxwy/eslint-config-base:** upgraded to 1.7.1-beta.1
+- **@sxwy/stylelint-config:** upgraded to 1.7.0-beta.1
 
 # @sxwy/prettier-config [1.5.0](https://github.com/sxwy/standard/compare/@sxwy/prettier-config@1.4.2...@sxwy/prettier-config@1.5.0) (2022-09-22)
 
