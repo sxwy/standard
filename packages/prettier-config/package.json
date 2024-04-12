@@ -13,9 +13,9 @@
   "author": "chenjie",
   "license": "MIT",
   "engines": {
-    "node": "^16"
+    "node": "^18 || ^20"
   },
   "peerDependencies": {
-    "prettier": "^2.8.8"
+    "prettier": "^3.2.5"
   }
 }
