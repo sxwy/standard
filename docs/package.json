@@ -9,6 +9,9 @@
   ],
   "author": "chenjie",
   "license": "MIT",
+  "engines": {
+    "node": "^16"
+  },
   "scripts": {
     "dev": "npx vuepress dev .",
     "build": "npx vuepress build ."
