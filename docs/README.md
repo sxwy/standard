@@ -2,8 +2,10 @@
 home: true
 heroText: 开发规范
 tagline: 前端开发规范
-actionText: 起步 →
-actionLink: /rules/base/why
+actions:
+  - text: 起步 →
+    link: /rules/base/why
+    type: primary
 features:
   - title: 基础知识
     details: 讲解规范的基础知识

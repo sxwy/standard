@@ -1,19 +1,14 @@
+# @sxwy/stylelint-config [1.9.0](https://github.com/sxwy/standard/compare/@sxwy/stylelint-config@1.8.0...@sxwy/stylelint-config@1.9.0) (2024-04-11)
+
+### Features
+
+- 项目依赖升级优化 ([05c45c8](https://github.com/sxwy/standard/commit/05c45c8f61960d09b5f2e7defb1140b580fd0c89))
+
 # @sxwy/stylelint-config [1.8.0](https://github.com/sxwy/standard/compare/@sxwy/stylelint-config@1.7.0...@sxwy/stylelint-config@1.8.0) (2023-10-09)
 
 ### Features
 
 - 项目依赖调整 ([c3e0f64](https://github.com/sxwy/standard/commit/c3e0f64626f123565bff731a9732dbd2217cdfcd))
-
-# @sxwy/stylelint-config [1.7.0](https://github.com/sxwy/standard/compare/@sxwy/stylelint-config@1.6.0...@sxwy/stylelint-config@1.7.0) (2022-10-08)
-
-### Features
-
-- 项目依赖调整 ([c3e0f64](https://github.com/sxwy/standard/commit/c3e0f64626f123565bff731a9732dbd2217cdfcd))
-
-### Dependencies
-
-- **@sxwy/eslint-config-base:** upgraded to 1.8.0-beta.1
-- **@sxwy/prettier-config:** upgraded to 1.6.0-beta.1
 
 # @sxwy/stylelint-config [1.7.0](https://github.com/sxwy/standard/compare/@sxwy/stylelint-config@1.6.0...@sxwy/stylelint-config@1.7.0) (2022-10-08)
 

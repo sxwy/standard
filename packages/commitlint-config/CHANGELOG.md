@@ -1,3 +1,9 @@
+# @sxwy/commitlint-config [1.7.0](https://github.com/sxwy/standard/compare/@sxwy/commitlint-config@1.6.0...@sxwy/commitlint-config@1.7.0) (2024-04-11)
+
+### Features
+
+- 项目依赖升级优化 ([05c45c8](https://github.com/sxwy/standard/commit/05c45c8f61960d09b5f2e7defb1140b580fd0c89))
+
 # @sxwy/commitlint-config [1.6.0](https://github.com/sxwy/standard/compare/@sxwy/commitlint-config@1.5.0...@sxwy/commitlint-config@1.6.0) (2023-10-09)
 
 ### Features
