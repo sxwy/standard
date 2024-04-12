@@ -1,3 +1,10 @@
+# @sxwy/commitlint-config [1.8.0](https://github.com/sxwy/standard/compare/@sxwy/commitlint-config@1.7.0...@sxwy/commitlint-config@1.8.0) (2024-04-12)
+
+
+### Features
+
+* 项目配置兼容低版本node ([8d4a3a3](https://github.com/sxwy/standard/commit/8d4a3a3ea85859b5c89da016729e6f8b3a2f0139))
+
 # @sxwy/commitlint-config [1.7.0](https://github.com/sxwy/standard/compare/@sxwy/commitlint-config@1.6.0...@sxwy/commitlint-config@1.7.0) (2024-04-11)
 
 ### Features
