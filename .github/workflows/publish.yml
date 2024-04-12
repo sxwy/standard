@@ -16,12 +16,12 @@ jobs:
       - name: UseNode
         uses: actions/setup-node@v3
         with:
-          node-version: 20.12.0
+          node-version: 16.18.0
 
       - name: Publish
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
         run: |
-          yarn
+          yarn install
           yarn release

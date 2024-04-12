@@ -15,8 +15,14 @@
   ],
   "author": "chenjie",
   "license": "MIT",
+  "engines": {
+    "node": "^16"
+  },
   "dependencies": {
     "@sxwy/eslint-config-base": "^1.8.0",
     "eslint-plugin-vue": "^9.24.1"
+  },
+  "peerDependencies": {
+    "eslint": "^8.57.0"
   }
 }
