@@ -16,11 +16,11 @@ jobs:
       - name: UseNode
         uses: actions/setup-node@v3
         with:
-          node-version: 20.12.0
+          node-version: 16.18.0
 
       - name: Build
         run: |
-          yarn
+          yarn install
           yarn run build:docs
 
       - name: Deploy

@@ -10,8 +10,7 @@
 {
   "script": {
     "prepare": "husky install",
-    "preinstall": "npx only-allow npm",
-    "pre-commit": "lint-staged -p false"
+    "pre-commit": "lint-staged"
   }
 }
 ```
@@ -54,9 +53,8 @@ npx husky add .husky/pre-commit "npm run pre-commit"
 
   ```js
   module.exports = {
-    '*': 'prettier --write --cache --ignore-unknown',
-    '*.{vue,js,jsx,ts,tsx}': 'eslint --fix',
-    '*.{vue,css,less,sass,scss}': 'stylelint --fix --allow-empty-input'
+    '!(example|docs)/**/*.{vue,js,jsx,ts,tsx}': 'eslint --fix',
+    '!(example|docs)/**/*.{vue,css,less,sass,scss}': 'stylelint --fix'
   }
   ```
 
