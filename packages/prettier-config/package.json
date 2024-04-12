@@ -11,5 +11,11 @@
     "prettier"
   ],
   "author": "chenjie",
-  "license": "MIT"
+  "license": "MIT",
+  "engines": {
+    "node": "^16"
+  },
+  "peerDependencies": {
+    "prettier": "^2.8.8"
+  }
 }
