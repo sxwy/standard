@@ -16,10 +16,10 @@
   "author": "chenjie",
   "license": "MIT",
   "engines": {
-    "node": "^16"
+    "node": "^18 || ^20"
   },
   "dependencies": {
-    "@sxwy/eslint-config-base": "^1.8.0",
+    "@sxwy/eslint-config-base": "^1.9.0",
     "eslint-plugin-vue": "^9.24.1"
   },
   "peerDependencies": {
