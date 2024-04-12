@@ -1,17 +1,8 @@
-# @sxwy/eslint-config-vue [1.9.0-beta.1](https://github.com/sxwy/standard/compare/@sxwy/eslint-config-vue@1.8.0...@sxwy/eslint-config-vue@1.9.0-beta.1) (2024-04-12)
-
+# @sxwy/eslint-config-vue [1.9.0](https://github.com/sxwy/standard/compare/@sxwy/eslint-config-vue@1.8.0...@sxwy/eslint-config-vue@1.9.0) (2024-04-12)
 
 ### Features
 
-* 项目配置兼容低版本node ([8d4a3a3](https://github.com/sxwy/standard/commit/8d4a3a3ea85859b5c89da016729e6f8b3a2f0139))
-
-
-
-
-
-### Dependencies
-
-* **@sxwy/eslint-config-base:** upgraded to 1.10.0-beta.1
+- 项目配置兼容低版本node ([8d4a3a3](https://github.com/sxwy/standard/commit/8d4a3a3ea85859b5c89da016729e6f8b3a2f0139))
 
 # @sxwy/eslint-config-vue [1.8.0](https://github.com/sxwy/standard/compare/@sxwy/eslint-config-vue@1.7.0...@sxwy/eslint-config-vue@1.8.0) (2024-04-11)
 
