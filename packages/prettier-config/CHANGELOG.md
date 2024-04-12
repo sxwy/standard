@@ -1,3 +1,17 @@
+# @sxwy/prettier-config [2.0.0](https://github.com/sxwy/standard/compare/@sxwy/prettier-config@1.8.0...@sxwy/prettier-config@2.0.0) (2024-04-12)
+
+### Bug Fixes
+
+- 修正版本号 ([1c5db1d](https://github.com/sxwy/standard/commit/1c5db1d52a88fc383fb863c3e1d932ad3ec58874))
+
+### Features
+
+- 升级Node版本 ([86ae0b6](https://github.com/sxwy/standard/commit/86ae0b66fa3e78ac5593ffa691be7b228324ab59))
+
+### BREAKING CHANGES
+
+- 支持Node18或20
+
 # @sxwy/prettier-config [1.8.0](https://github.com/sxwy/standard/compare/@sxwy/prettier-config@1.7.0...@sxwy/prettier-config@1.8.0) (2024-04-12)
 
 ### Features
