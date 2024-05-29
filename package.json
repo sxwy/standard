@@ -33,10 +33,10 @@
     "release": "multi-semantic-release --deps.bump=satisfy --deps.release=patch"
   },
   "devDependencies": {
-    "@sxwy/commitlint-config": "^1.6.0",
-    "@sxwy/eslint-config-base": "^1.8.0",
-    "@sxwy/prettier-config": "^1.6.0",
-    "@sxwy/stylelint-config": "^1.8.0",
+    "@sxwy/commitlint-config": "^2.0.0",
+    "@sxwy/eslint-config-base": "^2.0.0",
+    "@sxwy/prettier-config": "^2.0.0",
+    "@sxwy/stylelint-config": "^2.0.0",
     "@semantic-release/changelog": "^6.0.3",
     "@semantic-release/git": "^10.0.1",
     "commitlint": "^19.2.1",
